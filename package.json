@@ -1,0 +1,8 @@
+{
+  "name": "commercial-optimization-atc",
+  "version": "0.1.0",
+  "description": "ATC dashboard for the Commercial Optimization Data team",
+  "pi": {
+    "extensionsDir": "pi-extensions"
+  }
+}
